@@ -1,0 +1,3 @@
+Deskripsi singkat project kami : Disini kami memilih masalah kesehatan khususnya dalam kesehatan fisik, Kesehatan fisik adalah faktor utama dalam menjaga kualitas hidup manusia. Program ini bertujuan untuk membantu individu memahami kondisi fisik mereka dan mengambil tindakan yang diperlukan untuk memperbaikinya. Mendorong Gaya Hidup Sehat Program ini bisa digunakan untuk mengukur indikator kesehatan fisik : BMI (Body Mass Index), Hitung Kebutuhan Kalori Harian, Hitung Kebutuhan Cairan Harian, Hitung Rasio Pinggang-Panggul, Rekomendasi Latihan Berdasarkan VO2Max.
+link gdrive berisi dokumentasi : https://drive.google.com/folderview?id=1ZD8wuGWFZqNJiPsxWkjHT3I3y6gGMRf9
+link youtube : https://youtu.be/H8s0AArFY3c
